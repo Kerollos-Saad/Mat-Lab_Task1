@@ -4,7 +4,7 @@ C=[4 2 -3 ; 7 -7 9 ; 3 -5 6 ]
 D=[6 3 2 ; 2 12 -7 ; -1 6 2 ; -5 15 11]
 
 %% Question 1
-ANS1=3*A-5*C
+ANS1 = (3*A)-(5*C)
 
 ANS2='error because not equal by coloums and rows to that'
 
